@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## AYOO 👋🏽
+- Student at Instituo Tecnologico de Acapulco 📚
+- Software Engineer
+- Dacer & lover of HipHop 😎
 <!--
 **conceptoHH/conceptoHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
