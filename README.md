@@ -1,7 +1,8 @@
 ## AYOO 👋🏽
 - Student at Instituo Tecnologico de Acapulco 📚
+- currently doing my intership at [chaindrenciales](https://chaindrenciales.com.mx/)
 - Software Engineer
-- Dacer & lover of HipHop 😎
+- [Dancer](https://instagram.com/concepto_hh) & lover of HipHop 😎
 <!--
 **conceptoHH/conceptoHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
