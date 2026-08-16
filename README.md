@@ -1,6 +1,6 @@
 ## AYOO 👋🏽
 - Student at Instituo Tecnologico de Acapulco 📚
-- currently doing my intership at [chaindrenciales](https://chaindrenciales.com.mx/)
+- Did my intership at [chaindrenciales](https://chaindrenciales.com.mx/)
 - Software Engineer
 - [Dancer](https://instagram.com/concepto_hh) & lover of HipHop 😎
 <!--
